@@ -1,0 +1,27 @@
+body {
+    font-family: 'Gulzar', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+#div1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(donate/images/cover2.png);
+    height: 500px;
+    background-size: 2000px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 0;
+    padding: 200px;
+    font-size: 40px;
+    color: white;
+
+}
+
+#donate {
+    background-image: linear-gradient(rgb(243, 9, 118), rgb(216, 6, 6));
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
