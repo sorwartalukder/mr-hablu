@@ -41,12 +41,14 @@ body {
     font-size: 30px;
 }
 
-#donate {
+.donate-c {
     text-align: center;
 }
 
 .flex {
     display: flex;
+
+
 }
 
 .taka {
@@ -54,6 +56,8 @@ body {
     margin-left: 3%;
     padding: 30px;
     background-color: rgb(155, 154, 154);
+    margin: 10px;
+    border-radius: 5px;
 
 }
 
@@ -64,4 +68,65 @@ body {
 #taka-m {
     margin-top: 100px;
     color: rgb(107, 107, 107);
+
+}
+
+.plan {
+    margin: 100px 300px;
+    font-size: 25px;
+
+}
+
+#first {
+    background-color: rgb(216, 235, 235);
+}
+
+#sceond {
+    background-color: rgb(212, 198, 205);
+}
+
+#thard {
+    background-color: rgb(221, 149, 149);
+}
+
+#email-sub {
+    background-color: burlywood;
+    border: 200px;
+    padding: 100px 300px;
+    margin: 100px 400px;
+
+}
+
+.email {
+    padding-right: 300px;
+    box-shadow: none;
+    background-color: rgb(155, 154, 154);
+
+
+}
+
+#email {
+    background-color: rgb(212, 209, 209);
+    padding: 10px 200px;
+}
+
+#sub {
+    padding: 20px;
+    background-color: rgb(230, 79, 79);
+}
+
+#last {
+    background-color: black;
+    text-align: center;
+    height: 150px;
+    padding-top: 50px;
+}
+
+#humble {
+    color: rgb(230, 79, 79);
+}
+
+#go {
+    color: rgb(155, 177, 196);
+    padding: 50px;
 }
