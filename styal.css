@@ -98,28 +98,6 @@ body {
     background-color: rgb(221, 149, 149);
 }
 
-#email-sub {
-    background-color: burlywood;
-    border: 200px;
-    padding: 100px 300px;
-    margin: 100px 400px;
-}
-
-.email {
-    padding-right: 300px;
-    box-shadow: none;
-    background-color: rgb(155, 154, 154);
-}
-
-#email {
-    background-color: rgb(212, 209, 209);
-    padding: 10px 200px;
-}
-
-#sub {
-    padding: 20px;
-    background-color: rgb(230, 79, 79);
-}
 
 #last {
     background-color: black;
