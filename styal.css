@@ -139,3 +139,12 @@ body {
     padding: 50px;
 
 }
+
+.half {
+    width: 50%;
+}
+
+.half img {
+    width: 100%;
+    margin: 50px;
+}
