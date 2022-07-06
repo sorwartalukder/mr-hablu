@@ -126,17 +126,15 @@ body {
 
 #humble {
     color: rgb(230, 79, 79);
-    font-family: 'Gulzar', serif;
-    font-family: 'Lobster', cursive;
-    font-family: 'Poppins', sans-serif;
-    font-family: 'Satisfy', cursive;
-    font-family: 'The Nautigal', cursive;
-    font-size: 40px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: cursive;
+
 }
 
 #go {
     color: rgb(155, 177, 196);
-    padding: 50px;
+    padding: 30px;
 
 }
 
@@ -145,6 +143,7 @@ body {
 }
 
 .half img {
-    width: 100%;
-    margin: 50px;
+    width: 90%;
+    margin: 20px;
+
 }
