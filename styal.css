@@ -7,7 +7,6 @@ body {
     font-family: 'Gulzar', serif;
     font-family: 'Lobster', cursive;
     font-family: 'Poppins', sans-serif;
-
 }
 
 #header {
@@ -48,19 +47,21 @@ body {
 
 .flex {
     display: flex;
-
-
 }
 
 .taka {
     box-shadow: none;
-    margin-left: 3%;
+    margin-left: 2%;
     padding: 30px;
     background-color: rgb(155, 154, 154);
-    margin: 10px;
     border-radius: 5px;
+    text-decoration: none;
+    color: rgb(34, 31, 31);
 
 }
+
+
+
 
 #taka-s {
     border: 7px solid tomato;
@@ -69,13 +70,20 @@ body {
 #taka-m {
     margin-top: 100px;
     color: rgb(107, 107, 107);
-
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid rgba(228, 222, 222, 0.795);
+    outline: none;
+    margin-bottom: 30px;
+    width: 500px;
+    text-align: center;
+    color: rgba(196, 160, 95, 0.678);
 }
 
 .plan {
     margin: 100px 300px;
     font-size: 25px;
-
 }
 
 #first {
@@ -95,15 +103,12 @@ body {
     border: 200px;
     padding: 100px 300px;
     margin: 100px 400px;
-
 }
 
 .email {
     padding-right: 300px;
     box-shadow: none;
     background-color: rgb(155, 154, 154);
-
-
 }
 
 #email {
@@ -121,7 +126,6 @@ body {
     text-align: center;
     height: 150px;
     padding-top: 50px;
-
 }
 
 #humble {
@@ -129,7 +133,6 @@ body {
     font-size: 20px;
     font-style: italic;
     font-family: cursive;
-
 }
 
 #go {
